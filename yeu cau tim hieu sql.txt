@@ -1,0 +1,19 @@
+Các bạn chịu khó chút, tìm hiểu theo những keywork mình gửi nhé. Vì thời gian không có nhiều nên mình không chia sẽ được nhiều thông tin.
+- Create/Drop Database
+- Create/Drop Table
+- Add/Drop Column
+- Modified Column: Data Type, Rename
+- Command: Insert, Update, Delete data
+- Command SQL:
+SELECT ...
+FROM ...
+WHERE ...
+GROUP BY ...
+ORDER BY ... ASC/DESC
+HAVING
+
+- Command JOIN Table:
++ Kết trong: INNER JOIN
++ Kết trái: LEFT JOIN
++ Kết phải: RIGHT JOIN
++ Kết Full: FULL JOIN
